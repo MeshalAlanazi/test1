@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "be-server-user-manager-main",
+  "version": "1.0.0",
+  "description": "Create an API to manage users with endpoints for listing, creating, updating and deleting users.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
